@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "休闲小游戏合集，支持手机、平板多端运行"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "应用主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "休闲游戏馆"
+    },
+    {
+      "name": "permission_distributeddatasync_reason",
+      "value": "用于本地数据存储与多设备数据同步"
+    }
+  ]
+}
